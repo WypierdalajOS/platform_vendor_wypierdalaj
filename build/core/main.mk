@@ -1,2 +1,2 @@
-# Include LineageOS versions
-include $(TOPDIR)vendor/lineage/build/core/main_version.mk
+# Include WypierdalajOS versions
+include $(TOPDIR)vendor/wypierdalaj/build/core/main_version.mk
